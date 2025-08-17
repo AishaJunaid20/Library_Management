@@ -17,8 +17,6 @@ It can search for books, check availability (for registered members only), give 
 
 🛠️ Requirements
 
-Python 3.9+
-
 Pydantic
 
 Install dependencies:
@@ -75,4 +73,5 @@ Assistant: 👋 Goodbye, Aisha!
 Library-Assistant/
 │── main.py       # Main program
 │── README.md     # Documentation
+
 
